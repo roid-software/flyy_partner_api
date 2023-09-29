@@ -1,0 +1,16 @@
+{
+  "name": "flyy_partner_api",
+  "version": "1.0.0",
+  "description": "a node wrapper for flyy_partner_api's",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "flyy",
+    "flyy_partner_api"
+  ],
+  "author": "vinayak.iyer@theflyy.com",
+  "license": "UNLICENSED"
+}
